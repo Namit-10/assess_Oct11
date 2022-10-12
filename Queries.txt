@@ -1,0 +1,5 @@
+create database test8;
+use test8;
+create table courierDetails(courierId int auto_increment primary key, customerName varchar(45) not null, mobileNo varchar(10) not null, source_place varchar(20) not null, destination_place varchar(20) , distance double , packetWeight double ,bookingDate date not null, deliveryCharge double , shippingDate date , deliveryDate date , deliveryStatus varchar(15));
+desc courierDetails;
+SELECT * FROM courierDetails;
