@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.courier-booking-form {
+	align-items: center;
+	text-align: center;
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-left: 35%;
+	margin-top: 10%;
+	background-color: white;
+}
+
+table, tr, td {
+	margin: 5px;
+	padding: 10px;
+}
+
+.courier-button {
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+}
+
+.estimate-form {
+	align-items: center;
+	text-align: center;
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 10px;
+	margin-left: 35%;
+	margin-top: 10%;
+}
+
+.makePayment-button {
+	padding-left: 70px;
+	padding-right: 70px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+}
